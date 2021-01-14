@@ -5,19 +5,19 @@ title: About Me
 <img src="https://static.thenounproject.com/png/1408780-200.png" width="180" height="120"/>
 My curiosity regarding various technologies has fueled my eagerness to learn more and contribute to the rapidly growing tech industry. Improving the quality of life for remote populations globally is the root of my dedication to developing technologies. 
 
-Currently, I am a Computer Science Graduate Student at USC. Thus far, I have worked on various projects in Artificial Intelligence, Machine Learning, Natural Language Processing, and Full-Stack. I am seeking a challenging and impactful full-time position starting this May. 
+Currently, I am a Computer Science Graduate Student at USC and will be graduating in May 2021. Thus far, I have worked on various projects in Artificial Intelligence, Machine Learning, Natural Language Processing, and Full-Stack. I am seeking challenging and impactful internship and full-time positions starting in Spring 2021 or later. 
 
 
 ## Recent Work Experiences <img src="https://e7.pngegg.com/pngimages/850/814/png-clipart-computer-icons-blog-hard-working-text-hand.png" width="27" height="23" />
 #### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
-- Technologies used: React Native, JavaScript, Android
-- Work involved: Front-end(Development of profile pages for students, progress tracking page), Backend
+- Technologies used: React Native, JavaScript, Android.
+- Work involved: Front-end(Development of profile pages for students, quiz progress tracking page), Backend.
 
 #### Vision Cultura - Developer (Oct 2020 - Dec 2020)
 Vision Cultura is a student start-up to help farmers in India by implementing micro-farming methods.
-- Technologies used: WordPress - WooCommerce, YITH, Stripe, RazorPay
-- Work involved: Developed login and signup pages along with social login and email confirmation, Shopping page along with Stripe and RazorPay, Inventory maintenance page in backend, page navigation
+- Technologies used: WordPress - WooCommerce, YITH, Stripe, RazorPay.
+- Work involved: Developed login and signup pages along with social login and email confirmation, Shopping page along with Stripe and RazorPay, Inventory maintenance page, navigation.
 
 #### Turazo - Student Advisory Board (July 2020 - August 2020)
 Turazo's online career fair helps connect students with professionals for 1-on-1 virtual conversations.
@@ -63,7 +63,7 @@ Class Representative and Placement Coordinator for the years 2015 - 19 during wh
 
 
 ## Fun Facts <img src="https://lh3.googleusercontent.com/proxy/BwLhObE-cKILqi5DbrydsWHnAbX2NR9RQW1iFXmhMZtkfbudZmVs_J6vk9sr9_SvFIt7vm5_Ym5OHW7C1PfoHshUUwhw01NToqL7IhQwApZ4JsmyLrFhjsSEnXiR6b6EEoJtSPV5ewJEiH4VP4O6uIKClFpXVxMv" width="23" height="23"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIpzZROaK8bHDDMMVTiTg56DfKDG74iAqw&usqp=CAU" width="23" height="23"/>
-I am a Potterhead and love reading all books. My favorite genres include fantasy and mystery. My current favorite readings are through novels exploring the development of the tech industry in the Victorian Era and how it has developed into today’s tech world. 
+I am a Potterhead and love reading all books. My favorite genres include fantasy and mystery. My current favorite readings are through novels exploring the development of the industry in the Victorian Era and how it has developed into today’s tech world. 
 
 
 
