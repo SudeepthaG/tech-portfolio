@@ -1,14 +1,14 @@
 ---
 id: about
-title: About
+title: About <img src="https://static.thenounproject.com/png/1408780-200.png" width="40" height="40"/>
 ---
 
-I am a Computer Science graduate student at USC. You will always find me curious about different technologies, eager to learn and seeking ways to improve these technologies. I have worked on different projects in the fields of Artificial Intelligence, Machine Learning, Natural Language Processing and Full Stack.
+You will always find me curious about different technologies, eager to learn and seeking ways to improve these technologies. I am passionate about using my technical skills to make people's lives easier and making a change.
 
-I am passionate about using my technical skills to make people's lives easier and making a change.
+Currently, I am a Computer Science graduate student at USC. I have worked on different projects in the fields of Artificial Intelligence, Machine Learning, Natural Language Processing and Full Stack and looking for full-time opportunities.
 
 
-## Recent Work Experiences
+## Recent Work Experiences <img src="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-vector-workspace-icon-png-image_695899.jpg" width="23" height="23" /> <img src="https://www.pngkey.com/png/detail/129-1292004_work-experience-icons-png.png" width="23" height="23"/> 
 #### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
 - Technologies used: React Native, JavaScript, Android
@@ -26,7 +26,7 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
-## Other work experiences
+## Other work experiences <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtFbrXPWc430UPes3XwDRyfwc_0O1YFrF7g&usqp=CAU" width="20" height="20" />
 #### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
@@ -36,14 +36,14 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
 
-## Education <img src="https://i.pinimg.com/originals/dd/7e/2d/dd7e2d99738624cd83015530e43ecc3b.png" alt="drawing" width="20" height="20"/>
+## Education <img src="https://pngdrive.com/wp-content/uploads/edd/2019/06/PNGDRIVE-COM-download-education-icon-23446-free-icons-and-png-backgrounds-free-png-education-1600_1400.jpg" alt="drawing" width="23" height="23"/>
 - University of Southern California - Masters in Computer Science (August 2019 - May 2021)
 - Vidya Jyothi Institute of Technology - Bachelors in Computer Science (August 2015 - May 2019)
 - Brilliant Junior College (June 2013 - May 2015)
 - Rosary Convent High School (June 2011 - May 2013)
 
 
-## Organizations involved and Leadership positions
+## Organizations involved and Leadership positions 
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
 Member of Society for Women Engineers USC since November 2019.
