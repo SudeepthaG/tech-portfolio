@@ -8,7 +8,6 @@ I am a Computer Science graduate student at USC. You will always find me curious
 I am passionate about using my technical skills to make people's lives easier and making a change.
 
 
-
 ## Recent Work Experiences
 #### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
@@ -27,7 +26,6 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
-
 ## Other work experiences:
 #### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
@@ -38,13 +36,11 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
 
-
 ## Education
 - University of Southern California - Masters in Computer Science (August 2019 - May 2021)
 - Vidya Jyothi Institute of Technology - Bachelors in Computer Science (August 2015 - May 2019)
 - Brilliant Junior College (June 2013 - May 2015)
 - Rosary Convent High School (June 2011 - May 2013)
-
 
 
 ## Organizations involved and Leadership positions
