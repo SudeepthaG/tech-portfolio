@@ -3,9 +3,9 @@ id: about
 title: About Me
 ---
 <img src="https://static.thenounproject.com/png/1408780-200.png" width="180" height="120"/>
-You will always find me curious about different technologies, eager to learn and seeking ways to improve these technologies. I am passionate about using my technical skills to make people's lives easier and making a change.
+My curiosity regarding various technologies has fueled my eagerness to learn more and contribute to the rapidly growing tech industry. Improving the quality of life for remote populations globally is the root of my dedication to developing technologies. 
 
-Currently, I am a Computer Science graduate student at USC. I have worked on different projects in the fields of Artificial Intelligence, Machine Learning, Natural Language Processing and Full Stack and looking for full-time opportunities.
+Currently, I am a Computer Science Graduate Student at USC. Thus far, I have worked on various projects in Artificial Intelligence, Machine Learning, Natural Language Processing, and Full-Stack. I am seeking a challenging and impactful full-time position starting this May. 
 
 
 ## Recent Work Experiences <img src="https://e7.pngegg.com/pngimages/850/814/png-clipart-computer-icons-blog-hard-working-text-hand.png" width="27" height="23" />
@@ -63,7 +63,7 @@ Class Representative and Placement Coordinator for the years 2015 - 19 during wh
 
 
 ## Fun Facts <img src="https://lh3.googleusercontent.com/proxy/BwLhObE-cKILqi5DbrydsWHnAbX2NR9RQW1iFXmhMZtkfbudZmVs_J6vk9sr9_SvFIt7vm5_Ym5OHW7C1PfoHshUUwhw01NToqL7IhQwApZ4JsmyLrFhjsSEnXiR6b6EEoJtSPV5ewJEiH4VP4O6uIKClFpXVxMv" width="23" height="23"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIpzZROaK8bHDDMMVTiTg56DfKDG74iAqw&usqp=CAU" width="23" height="23"/>
-I am a Potterhead and love reading all books, fantasy, thriller, mystery, historical and biographies!!!
+I am a Potterhead and love reading all books. My favorite genres include fantasy and mystery. My current favorite readings are through novels exploring the development of the tech industry in the Victorian Era and how it has developed into today’s tech world. 
 
 
 
