@@ -36,7 +36,7 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
 
-## Education ![education](https://i.pinimg.com/originals/dd/7e/2d/dd7e2d99738624cd83015530e43ecc3b.png =15x15)
+## Education <img src="https://i.pinimg.com/originals/dd/7e/2d/dd7e2d99738624cd83015530e43ecc3b.png" alt="drawing" width="20" height="20"/>
 - University of Southern California - Masters in Computer Science (August 2019 - May 2021)
 - Vidya Jyothi Institute of Technology - Bachelors in Computer Science (August 2015 - May 2019)
 - Brilliant Junior College (June 2013 - May 2015)
