@@ -29,10 +29,10 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 
 
 ## Other work experiences:
-#### USC Bookstores - Student worker
+#### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
-#### Suntek Corp - IOT Programmer Intern
+#### Suntek Corp - IOT Programmer Intern (May 2018 - Jun 2018)
 - Technologies used: Embedded C
 - Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
