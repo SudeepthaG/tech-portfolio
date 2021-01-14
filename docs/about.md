@@ -40,8 +40,8 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 
 
 ## Education
-- University of Southern California -Masters in Computer Science (August 2019 - May 2021)
-- Vidya Jyothi Institute of Technology -Bachelors in Computer Science (August 2015 - May 2019)
+- University of Southern California - Masters in Computer Science (August 2019 - May 2021)
+- Vidya Jyothi Institute of Technology - Bachelors in Computer Science (August 2015 - May 2019)
 - Brilliant Junior College (June 2013 - May 2015)
 - Rosary Convent High School (June 2011 - May 2013)
 
