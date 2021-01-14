@@ -8,6 +8,7 @@ I am a Computer Science graduate student at USC. You will always find me curious
 I am passionate about using my technical skills to make people's lives easier and making a change.
 
 
+
 ## Recent Work Experiences
 ### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
@@ -26,6 +27,7 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
+
 ## Other work experiences:
 ### USC Bookstores - Student worker
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
@@ -34,6 +36,8 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Technologies used: Embedded C
 - Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
+
+
 
 ## Education
 University of Southern California
@@ -47,6 +51,7 @@ Brilliant Junior College (June 2013 - May 2015)
 Rosary Convent High School (June 2011 - May 2013)
 
 
+
 ## Organizations involved and Leadership positions
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
@@ -57,6 +62,7 @@ Google Developer Student Club Facilitator for Fall 2018 where I trained and ment
 Advisory Board Head and Committee Organizer for the years 2017 - '19 for college fests, inter–college sports competitions, Annual Day celebrations, Science Day Celebrations and Hackathons where I supervised teams of sizes 5-40 and collaborated across 4-10 teams to arrange events for groups of 50-400.
 
 Class Representative and Placement Coordinator for the years 2015 - 19 during which I maintained databases, guided and coordinated between students, faculty and hiring companies to attain highest job placement average among 20 sections.
+
 
 ## Awards
 - 1st & 2nd Prizes for poster presentations in national level, inter-college competitions for 3 consecutive years.
