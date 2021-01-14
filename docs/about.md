@@ -1,14 +1,14 @@
 ---
 id: about
-title: About 
+title: About Me
 ---
-<img src="https://static.thenounproject.com/png/1408780-200.png" width="100" height="100"/>
+<img src="https://static.thenounproject.com/png/1408780-200.png" width="180" height="120"/>
 You will always find me curious about different technologies, eager to learn and seeking ways to improve these technologies. I am passionate about using my technical skills to make people's lives easier and making a change.
 
 Currently, I am a Computer Science graduate student at USC. I have worked on different projects in the fields of Artificial Intelligence, Machine Learning, Natural Language Processing and Full Stack and looking for full-time opportunities.
 
 
-## Recent Work Experiences <img src="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-vector-workspace-icon-png-image_695899.jpg" width="23" height="23" /> <img src="https://www.pngkey.com/png/detail/129-1292004_work-experience-icons-png.png" width="30" height="30"/> 
+## Recent Work Experiences <img src="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-vector-workspace-icon-png-image_695899.jpg" width="27" height="23" />
 #### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
 - Technologies used: React Native, JavaScript, Android
@@ -26,7 +26,7 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
-## Other work experiences <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtFbrXPWc430UPes3XwDRyfwc_0O1YFrF7g&usqp=CAU" width="30" height="30" />
+## Other work experiences <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtFbrXPWc430UPes3XwDRyfwc_0O1YFrF7g&usqp=CAU" width="30" height="20" />
 #### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
@@ -36,14 +36,14 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
 
-## Education <img src="https://pngdrive.com/wp-content/uploads/edd/2019/06/PNGDRIVE-COM-download-education-icon-23446-free-icons-and-png-backgrounds-free-png-education-1600_1400.jpg" alt="drawing" width="30" height="30"/>
+## Education <img src="https://www.pngfind.com/pngs/m/5-55817_education-icon-png-photo-free-education-icon-png.png" width="20" height="20"/>
 - University of Southern California - Masters in Computer Science (August 2019 - May 2021)
 - Vidya Jyothi Institute of Technology - Bachelors in Computer Science (August 2015 - May 2019)
 - Brilliant Junior College (June 2013 - May 2015)
 - Rosary Convent High School (June 2011 - May 2013)
 
 
-## Organizations involved and Leadership positions 
+## Organizations involved and Leadership positions <img src="https://www.vhv.rs/dpng/d/436-4361129_free-shaking-hands-icon-png-279292-shaking-hands.png" width="24" height="20"/> <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="20"/>
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
 Member of Society for Women Engineers USC since November 2019.
@@ -55,14 +55,14 @@ Advisory Board Head and Committee Organizer for the years 2017 - '19 for college
 Class Representative and Placement Coordinator for the years 2015 - 19 during which I maintained databases, guided and coordinated between students, faculty and hiring companies to attain highest job placement average among 20 sections.
 
 
-## Awards
+## Awards <img src="https://www.pngfind.com/pngs/m/46-465504_png-file-svg-award-icon-png-free-transparent.png" width="23" height="23">
 - 1st & 2nd Prizes for poster presentations in national level, inter-college competitions for 3 consecutive years.
 - 1st Prize for Exemplary Leadership in Hackathon by Suntek Corp.
 - Certificate of Merit in All India Essay Writing Competition by UNIC and SRCM for 2 consecutive years.
 - Certificate of Distinction in Business English by Cambridge English and Merit Award by TASK for being Second in the entire state.
 
 
-## Fun Facts
+## Fun Facts <img src="https://lh3.googleusercontent.com/proxy/BwLhObE-cKILqi5DbrydsWHnAbX2NR9RQW1iFXmhMZtkfbudZmVs_J6vk9sr9_SvFIt7vm5_Ym5OHW7C1PfoHshUUwhw01NToqL7IhQwApZ4JsmyLrFhjsSEnXiR6b6EEoJtSPV5ewJEiH4VP4O6uIKClFpXVxMv" width="23" height="23"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIpzZROaK8bHDDMMVTiTg56DfKDG74iAqw&usqp=CAU" width="23" height="23"/>
 I am a Potterhead and love reading all books, fantasy, thriller, mystery, historical and biographies!!!
 
 
