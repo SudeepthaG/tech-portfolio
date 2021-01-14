@@ -35,6 +35,17 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
+## Education
+University of Southern California
+- Masters in Computer Science (August 2019 - May 2021)
+
+Vidya Jyothi Institute of Technology
+- Bachelors in Computer Science (August 2015 - May 2019)
+
+Brilliant Junior College (June 2013 - May 2015)
+
+Rosary Convent High School (June 2011 - May 2013)
+
 
 ## Organizations involved and Leadership positions
 Member of Tech team in Workbench USC from September 2020 - December 2020.
