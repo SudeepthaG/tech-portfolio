@@ -8,7 +8,7 @@ You will always find me curious about different technologies, eager to learn and
 Currently, I am a Computer Science graduate student at USC. I have worked on different projects in the fields of Artificial Intelligence, Machine Learning, Natural Language Processing and Full Stack and looking for full-time opportunities.
 
 
-## Recent Work Experiences <img src="https://png.pngtree.com/png-vector/20190223/ourlarge/pngtree-vector-workspace-icon-png-image_695899.jpg" width="27" height="23" />
+## Recent Work Experiences <img src="https://e7.pngegg.com/pngimages/850/814/png-clipart-computer-icons-blog-hard-working-text-hand.png" width="27" height="23" />
 #### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
 - Technologies used: React Native, JavaScript, Android
@@ -26,7 +26,7 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
-## Other work experiences <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtFbrXPWc430UPes3XwDRyfwc_0O1YFrF7g&usqp=CAU" width="30" height="20" />
+## Other work experiences <img src="https://cdn4.iconfinder.com/data/icons/office-tools-12/64/10-_bag-work-_traveling-_experience-office-512.png" width="30" height="20" />
 #### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
@@ -43,7 +43,7 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Rosary Convent High School (June 2011 - May 2013)
 
 
-## Organizations involved and Leadership positions <img src="https://www.vhv.rs/dpng/d/436-4361129_free-shaking-hands-icon-png-279292-shaking-hands.png" width="24" height="20"/> <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="20"/>
+## Organizations involved and Leadership positions <img src="https://www.vhv.rs/dpng/d/436-4361129_free-shaking-hands-icon-png-279292-shaking-hands.png" width="24" height="20"/> <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="24"/>
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
 Member of Society for Women Engineers USC since November 2019.
