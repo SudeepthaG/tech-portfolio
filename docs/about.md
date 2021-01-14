@@ -26,7 +26,7 @@ Turazo's online career fair helps connect students with professionals for 1-on-1
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
 
-## Other work experiences:
+## Other work experiences
 #### USC Bookstores - Student worker (October 2019 - May 2020)
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
@@ -63,7 +63,7 @@ Class Representative and Placement Coordinator for the years 2015 - 19 during wh
 
 
 ## Fun Facts
-I love reading novels.
+I am a Potterhead and love reading all books, fantasy, thriller, mystery, historical and biographies!!!
 
 
 
