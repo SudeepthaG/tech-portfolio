@@ -9,17 +9,17 @@ I am passionate about using my technical skills to make people's lives easier an
 
 
 ## Recent Work Experiences
-# Key Learning - Software Developer (Dec 2020 - current)
+### Key Learning - Software Developer (Dec 2020 - current)
 Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-demand vocational skills to refugee students.
 Technologies used: React Native, JavaScript, Android
 Work involved: Front-end(Development of profile pages for students, progress tracking page), Backend
 
-# Vision Cultura - Developer (Oct 2020 - Dec 2020)
+### Vision Cultura - Developer (Oct 2020 - Dec 2020)
 Vision Cultura is a student start-up to help farmers in India by implementing micro-farming methods.
 Technologies used: WordPress - WooCommerce, YITH, Stripe, RazorPay
 Work involved: Developed login and signup pages along with social login and email confirmation, Shopping page along with Stripe and RazorPay, Inventory maintenance page in backend, page navigation
 
-# Turazo - Student Advisory Board (July 2020 - August 2020)
+### Turazo - Student Advisory Board (July 2020 - August 2020)
 Turazo's online career fair helps connect students with professionals for 1-on-1 virtual conversations.
 Work involved: Worked closely with Turazo's customer success and product development teams to improve key areas of their Online Career Fair platform.
 - Developed capstone proposals by compiling user experiences and performing data analysis through a diverse viewpoint as an international student.
@@ -27,10 +27,10 @@ Work involved: Worked closely with Turazo's customer success and product develop
 
 
 ## Other work experiences:
-# USC Bookstores - Student worker
+### USC Bookstores - Student worker
 Worked on maintaining the inventory and improving customer experience at USC Bookstores
 
-# Suntek Corp - IOT Programmer Intern
+### Suntek Corp - IOT Programmer Intern
 Technologies used: Embedded C
 Work involved: - Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
