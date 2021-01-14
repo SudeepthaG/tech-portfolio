@@ -21,7 +21,8 @@ Work involved: Developed login and signup pages along with social login and emai
 
 ### Turazo - Student Advisory Board (July 2020 - August 2020)
 Turazo's online career fair helps connect students with professionals for 1-on-1 virtual conversations.
-Work involved: Worked closely with Turazo's customer success and product development teams to improve key areas of their Online Career Fair platform.
+Work involved:
+- Worked closely with Turazo's customer success and product development teams to improve key areas of their Online Career Fair platform.
 - Developed capstone proposals by compiling user experiences and performing data analysis through a diverse viewpoint as an international student.
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
 
@@ -32,7 +33,8 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 
 ### Suntek Corp - IOT Programmer Intern
 Technologies used: Embedded C
-Work involved: - Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
+Work involved: 
+- Designed an IoT device to automatically clean, heat, and check water levels and feed fish in 1000 sq ft aquarium.
 - Automated aquarium maintenance and eliminated regular human effort, thereby helped to save 6 hours per week.
 
 
@@ -48,10 +50,10 @@ Advisory Board Head and Committee Organizer for the years 2017 - '19 for college
 Class Representative and Placement Coordinator for the years 2015 - 19 during which I maintained databases, guided and coordinated between students, faculty and hiring companies to attain highest job placement average among 20 sections.
 
 ## Awards
-• 1st & 2nd Prizes for poster presentations in national level, inter-college competitions for 3 consecutive years.
-• 1st Prize for Exemplary Leadership in Hackathon by Suntek Corp.
-• Certificate of Merit in All India Essay Writing Competition by UNIC and SRCM for 2 consecutive years.
-• Certificate of Distinction in Business English by Cambridge English and Merit Award by TASK for being Second in the entire state.
+- 1st & 2nd Prizes for poster presentations in national level, inter-college competitions for 3 consecutive years.
+- 1st Prize for Exemplary Leadership in Hackathon by Suntek Corp.
+- Certificate of Merit in All India Essay Writing Competition by UNIC and SRCM for 2 consecutive years.
+- Certificate of Distinction in Business English by Cambridge English and Merit Award by TASK for being Second in the entire state.
 
 
 ## Fun Facts
