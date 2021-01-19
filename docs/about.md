@@ -20,7 +20,7 @@ Vision Cultura is a student start-up to help farmers in India by implementing mi
 - Work involved: Developed login and signup pages along with social login and email confirmation, Shopping page along with Stripe and RazorPay, Inventory maintenance page, navigation.
 
 #### Turazo - Student Advisory Board (July 2020 - August 2020)
-Turazo's online career fair helps connect students with professionals for 1-on-1 virtual conversations.
+Turazo's online career fair helps connect students across the world with working professionals for 1-on-1 virtual conversations.
 - Worked closely with Turazo's customer success and product development teams to improve key areas of their Online Career Fair platform.
 - Developed capstone proposals by compiling user experiences and performing data analysis through a diverse viewpoint as an international student.
 - Provided comprehensive recommendations on how to improve their product and overall user experience as a member of the Social Media and Marketing teams.
