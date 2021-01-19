@@ -15,7 +15,7 @@ Key Learning is an offline ed-tech app that uses byte-sized videos to teach in-d
 - Work involved: Front-end(Development of profile pages for students, quiz progress tracking page), Backend.
 
 #### Vision Cultura - Developer (Oct 2020 - Dec 2020)
-Vision Cultura is a student start-up to help farmers in India by implementing micro-farming methods.
+Vision Cultura is a student start-up to help farmers in India by implementing micro-farming methods for quicker outcomes.
 - Technologies used: WordPress - WooCommerce, YITH, Stripe, RazorPay.
 - Work involved: Developed login and signup pages along with social login and email confirmation, Shopping page along with Stripe and RazorPay, Inventory maintenance page, navigation.
 
