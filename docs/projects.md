@@ -2,8 +2,10 @@
 id: projects
 title: Projects
 ---
+# Web Technologies / Full Stack
 ## Stock Trade Practice App 
 Technologies used: Android, Java, Volley, NodeJS, JSON, AWS, REST API calls <br/>
+Tags: 
 Created an android application allowing users to build stock trading portfolios, watchlists, search, buy, sell stocks locally, view interactive charts and share related news to social media.<br/>
 [View project code](https://github.com/SudeepthaG) 
 
@@ -22,6 +24,7 @@ Technologies used: HTML, CSS, PHP, Javascript, SQL, Tomcat, XAMPP <br/>
 Equipped undergrad administration with application allowing students and faculty to create accounts, register grievances to improve experience of 90% of users by providing anony­mity.Reduced time taken to resolve grievance from 2 weeks to 3 days for over 7500 accounts.
 
 
+# Natural Language Processing
 ## Bilingual Translator 
 Technologies used: NLP  <br/>
 Designed an NLP model to translate Telugu-English code-mixed and code-switched utterances to a single language, using data analysis and rules to improve language comprehension amongst the greater population. 
@@ -46,7 +49,7 @@ Trained a model to learn lemmatization function from an annotated corpus achievi
 Technologies used: Python - NLP <br/>
 Developed a rule-based model to predict full name given a pair of related names by reducing ambiguity to achieved 97.5% and 95% accuracy on training and test data.
 
-
+# Machine Learning
 ## Clustering of Countries based on Covid-19 Indicators 
 Technologies used: Python <br/>
 Clustered 190 countries by performing K-Means algorithm and Expectation Maximization algorithm in GMM on publicly sourced Covid data.
@@ -74,7 +77,7 @@ Reduced the dimensionality of 3-D data points and embedded them in 2-D space usi
 Technologies used: Python <br/>
 Predicted the most likely trajectory for a robot in a 2-D grid world with obstacles when locations of towers and noisy distances to each tower by using HMMs built from scratch.  
 
-
+# Artificial Intelligence
 ## Optimal Path Determiner for Mars Rover 
 Technologies used: Python <br/>
 Determined the optimal path for a Mars rover for a  given 3-D terrain with different constraints by modifying Artificial Intelligence algorithms such as A*, BFS, uniform cost search, HMM.
@@ -91,9 +94,19 @@ Technologies used: Java <br/>
 Implemented an agent to determine compatibility of medicines for people with multiple diseases by using First Order Logic to achieve 90% accuracy.
 Structured knowledge base with 100 diseases and medicines in order to detect incompatibility between medications.
 
-
+# Data Mining, Tools 
 ## Geospatial Data Handling 
 Technologies used: PostgreSQL, Google Earth <br/>
 Collected geospatial data points in different categories around USC, calculated the convex hull, nearest points, area covered, and spirograph to  plot them onto Google Earth. 
 
+## Weka 
+Built a linear regression equation, to predict MEDV on Boston Housing dataset.<br/>
+Created a 'MultilayerPerceptron' neural network that learns the data.
 
+## Knime
+Used KNIME to perform linear regression on all parameters of abalone shells dataset.<br/>
+Built a 'Decision Tree Learner' predictor, where 'sex' is the predicted variable.
+
+## RapidMiner
+Uses a K-Means clustering node to create 6 clusters (with all the 4 attrs together, ie. clustered a 4D dataset) out of the 4177 pieces of data based on shells.arff. <br/>
+Performed linear regression to predict num_rings, from length,diameter,height.
