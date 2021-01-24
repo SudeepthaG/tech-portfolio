@@ -4,7 +4,7 @@ title: Projects
 ---
 ## Stock Trade Practice App (Android, Java, Volley, NodeJS, JSON, AWS, REST API calls)
 Created an android application allowing users to build stock trading portfolios, watchlists, search, buy, sell stocks locally, view interactive charts and share related news to social media.
-[View project code][https://github.com/SudeepthaG] 
+[View project code](https://github.com/SudeepthaG) 
 
 ## Stock Search Responsive Website (Bootstrap, Angular, Node.js, AJAX, JSON, HTML, AWS, REST)
 Built a responsive website that performs the operations listed above, allowing users to navigate between different pages for different functionalities and deployed the application on AWS.
