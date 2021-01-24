@@ -43,7 +43,7 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Rosary Convent High School (June 2011 - May 2013)
 
 
-## Organizations involved and Leadership positions <img src="https://www.vhv.rs/dpng/d/436-4361129_free-shaking-hands-icon-png-279292-shaking-hands.png" width="24" height="20"/> <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="24"/>
+## Organizations involved and Leadership positions <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="24"/>
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
 Member of Society for Women Engineers USC since November 2019.
@@ -62,7 +62,7 @@ Class Representative and Placement Coordinator for the years 2015 - 19 during wh
 - Certificate of Distinction in Business English by Cambridge English and Merit Award by TASK for being Second in the entire state.
 
 
-## Fun Facts <img src="https://lh3.googleusercontent.com/proxy/BwLhObE-cKILqi5DbrydsWHnAbX2NR9RQW1iFXmhMZtkfbudZmVs_J6vk9sr9_SvFIt7vm5_Ym5OHW7C1PfoHshUUwhw01NToqL7IhQwApZ4JsmyLrFhjsSEnXiR6b6EEoJtSPV5ewJEiH4VP4O6uIKClFpXVxMv" width="23" height="23"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIpzZROaK8bHDDMMVTiTg56DfKDG74iAqw&usqp=CAU" width="23" height="23"/>
+## Fun Facts <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItIpzZROaK8bHDDMMVTiTg56DfKDG74iAqw&usqp=CAU" width="23" height="23"/>
 I am a Potterhead and love reading all books. My favorite genres include fantasy and mystery. My current favorite readings are through novels exploring the development of the industry in the Victorian Era and how it has developed into today’s tech world. 
 
 
