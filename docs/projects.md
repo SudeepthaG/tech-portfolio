@@ -8,8 +8,9 @@ Technologies used: Android, Java, Volley, NodeJS, JSON, AWS, REST API calls <br/
 Tags: 
 Created an android application allowing users to build stock trading portfolios, watchlists, search, buy, sell stocks locally, view interactive charts and share related news to social media.<br/>
 [View project code](https://github.com/SudeepthaG/Stock_Search_Android_App) <br/>
-View reference video: 
-[![App img](./assets/androidapp.png =100x20)](https://youtu.be/diy1rVz6YaA)
+View reference video: [![App img](./assets/androidapp.png =100x20)](https://youtu.be/diy1rVz6YaA)
+
+
 ## Stock Search Responsive Website 
 Technologies used: Bootstrap, Angular, Node.js, AJAX, JSON, HTML, AWS, REST <br/>
 Built a responsive website that performs the operations listed above, allowing users to navigate between different pages for different functionalities and deployed the application on AWS.<br />[View Project Code](https://github.com/SudeepthaG/Stock_Search_Responsive_Website)
