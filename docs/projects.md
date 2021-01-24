@@ -9,7 +9,7 @@ Tags:
 Created an android application allowing users to build stock trading portfolios, watchlists, search, buy, sell stocks locally, view interactive charts and share related news to social media.<br/>
 [View project code](https://github.com/SudeepthaG/Stock_Search_Android_App) <br/>
 View reference video: 
-[![App img](./assets/androidapp.png width="280" height="250" =200x200)](https://youtu.be/diy1rVz6YaA)
+[![App img](./assets/androidapp.png width="280" height="250")](https://youtu.be/diy1rVz6YaA)
 
 ## Stock Search Responsive Website 
 Technologies used: Bootstrap, Angular, Node.js, AJAX, JSON, HTML, AWS, REST <br/>
