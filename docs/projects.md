@@ -93,15 +93,15 @@ Determined the optimal path for a Mars rover for a  given 3-D terrain with diffe
 
 ## AI agent for Halma Game 
 Technologies used: Python <br/>
-- Developed an adversarial game playing agent using Min-max and Alpha-beta pruning algorithms to return next optimal move in a two-player Halma game with time limit. <br/>
-Reduced number of moves from 200 to 70 to win in 30 out of 50 games with opposing agents.
+-Developed an adversarial game playing agent using Min-max and Alpha-beta pruning algorithms to return next optimal move in a two-player Halma game with time limit. <br/>
+-Reduced number of moves from 200 to 70 to win in 30 out of 50 games with opposing agents.
 <br />[View Project Code](https://github.com/SudeepthaG/AI-agent-for-Halma-Game)
 
 
 ## Medication Compatibility Predictor 
 Technologies used: Java <br/>
-- Implemented an agent to determine compatibility of medicines for people with multiple diseases by using First Order Logic to achieve 90% accuracy.
-<br/>- Structured knowledge base with 100 diseases and medicines in order to detect incompatibility between medications.
+-Implemented an agent to determine compatibility of medicines for people with multiple diseases by using First Order Logic to achieve 90% accuracy.
+<br/>-Structured knowledge base with 100 diseases and medicines in order to detect incompatibility between medications.
 <br />[View Project Code](https://github.com/SudeepthaG/Medication-Compatibility-Predictor)
 
 
