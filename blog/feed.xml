@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sudeeptha Mouni Ganji Blog</title>
+        <link>https://SudeepthaG.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Sudeeptha Mouni Ganji news and events.</description>
+        <lastBuildDate>Sat, 03 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Sudeeptha Mouni Ganji Blog</title>
+            <url>https://SudeepthaG.github.io/tech-portfolio/undefined</url>
+            <link>https://SudeepthaG.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021</copyright>
+        <item>
+            <title><![CDATA[Bilingual Translator : Translating Utterances Mixed with Telugu & English]]></title>
+            <link>https://SudeepthaG.github.io/tech-portfolio/blog/2020/10/03/blog-template.html</link>
+            <guid>https://SudeepthaG.github.io/tech-portfolio/blog/2020/10/03/blog-template.html</guid>
+            <pubDate>Sat, 03 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<h1><a class="anchor" aria-hidden="true" id="abstract"></a><a href="#abstract" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Abstract</h1> <p>The advent of technology and migration of people across the world has resulted in people being multilinguists or having a basic knowledge of popular words or quotes. These words are used in social media in combination with the local language...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Clustering Countries based on Covid-19 indicators]]></title>
+            <link>https://SudeepthaG.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</link>
+            <guid>https://SudeepthaG.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<h1><a class="anchor" aria-hidden="true" id="abstract"></a><a href="#abstract" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>Abstract</h1> <p>The COVID-19 outbreak was characterized as a pandemic by the WHO on March 11, 2020. As the new epidemic Coronavirus Disease 2019 (COVID-19) spreads, there has been a lot of research for better understanding on the effects of the virus. We ca...</p>]]></description>
+        </item>
+    </channel>
+</rss>
