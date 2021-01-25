@@ -8,7 +8,7 @@ Technologies used: Android, Java, Volley, NodeJS, JSON, AWS, REST API calls <br/
 Tags: 
 Created an android application allowing users to build stock trading portfolios, watchlists, search, buy, sell stocks locally, view interactive charts and share related news to social media.<br/>
 [View project code](https://github.com/SudeepthaG/Stock_Search_Android_App) <br/>
-View reference video: [![App img](./assets/androidapp.png =100x20)](https://youtu.be/diy1rVz6YaA)
+View reference video: [![App img]<img src="./assets/androidapp.png" width="200" height="200")](https://youtu.be/diy1rVz6YaA)
 
 
 ## Stock Search Responsive Website 
