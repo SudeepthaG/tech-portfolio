@@ -43,6 +43,13 @@ Worked on maintaining the inventory and improving customer experience at USC Boo
 - Rosary Convent High School (June 2011 - May 2013)
 
 
+## Technical Skills
+Languages: 	          Python, Java, Javascript, Typescript, C, C++, Matlab <br />
+Web Technologies:     HTML, CSS, Bootstrap, NodeJS, Ajax, RESTful services, Angular, PHP, JSON <br/>
+Databases and Cloud: Oracle, MySQL, PostgreSQL, AWS, GCP <br />
+Frameworks/Tools:     Android Studio, React Native, Wordpress, Flask, Tomcat, NumPy, Pandas, Weka
+
+
 ## Organizations involved and Leadership positions <img src="https://static.thenounproject.com/png/1264385-200.png" width="24" height="24"/>
 Member of Tech team in Workbench USC from September 2020 - December 2020.
 
