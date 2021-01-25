@@ -1,5 +1,5 @@
 ---
-title: Bilingual Translator : A System for Automatically Translating Utterances Mixed with Telugu & English
+title: Bilingual Translator : Translating Utterances Mixed with Telugu & English
 ---
 
 # Abstract
